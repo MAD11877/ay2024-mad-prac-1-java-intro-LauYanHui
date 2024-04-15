@@ -10,10 +10,10 @@ public class Question3 {
      */
 
     Scanner in = new Scanner(System.in);
-    System.out.print("Enter Number: ");
+    //System.out.print("Enter Number: ");
     int num = in.nextInt();
     int num1 = num * num;
-    System.out.println("Number is: " + num1);
+    System.out.println(num1);
 
   }
 }
