@@ -1,6 +1,6 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-// import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Test;
 import java.util.Scanner; // Import Scanner for reading input
 
 public class Question2 {
