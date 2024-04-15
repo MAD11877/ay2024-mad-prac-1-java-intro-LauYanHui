@@ -13,7 +13,7 @@ public class Question2 {
     //System.out.print("Enter Height: ");
     double weight = scanner.nextDouble();
     //System.out.println("Height Entered" + height + " cm");
-    double BMI = weight / ((height/100) * (height/100));
+    double BMI = weight / ((height) * (height));
     System.out.printf("%.1f",BMI);
   }
 
